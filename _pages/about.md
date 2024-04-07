@@ -17,6 +17,6 @@ In my spare time, I love:
 
  ☑ Watching _NBA_🏀, the _Premier League_, _Bundesliga_, _La Liga_, _Serie A_ and _Ligue 1_⚽️, and _Grand Slam tournaments_🎾.
 
- ☑ Learning the frontiers of military and aerospace.🚀
+ ☑ Learning the frontiers of military and politics.🚀
 
 If you are interested in communicating with me, feel free to contact me through [E-mail](mailto:chenzhiyuan@sjtu.edu.cn).
