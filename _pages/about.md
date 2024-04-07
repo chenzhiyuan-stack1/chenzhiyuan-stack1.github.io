@@ -13,7 +13,9 @@ In my spare time, I love:
 
  ☑ Playing the _clarinet_🎷 and the _trumpet_🎺.
 
- ☑ Playing different ball sports, like _basketball_🏀, _soccer_⚽️, _badminton_🏸, _table tennis_🏓, and _billiards_🎱.
+ ☑ Playing different ball sports, like _basketball_🏀, _badminton_🏸, _table tennis_🏓, and _billiards_🎱.
+
+ ☑ Watching _NBA_🏀, the _Premier League_, _Bundesliga_, _La Liga_, _Serie A_ and _Ligue 1_⚽️, and _Grand Slam tournaments_🎾.
 
  ☑ Learning the frontiers of military and aerospace.🚀
 
