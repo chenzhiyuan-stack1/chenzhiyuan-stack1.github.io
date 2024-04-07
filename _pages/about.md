@@ -11,7 +11,7 @@ I am _Zhiyuan_, a first-year master student supervised by [Prof. Chenglin Li](ht
 
 In my spare time, I love:
 
- ☑ Playing the _clarinet_🎷.
+ ☑ Playing the _clarinet_🎷 and the _trumpet_🎺.
 
  ☑ Playing different ball sports, like _basketball_🏀, _soccer_⚽️, _badminton_🏸, _table tennis_🏓, and _billiards_🎱.
 
