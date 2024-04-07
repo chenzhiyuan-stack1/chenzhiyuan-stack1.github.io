@@ -11,7 +11,7 @@ title                    : "Zhiyuan Chen"
 title_separator          : "-"
 name                     : "Zhiyuan Chen"
 description              : "My name is Zhiyuan Chen"
-url                      : https://chenzhiyuan.github.io
+url                      : https://chenzhiyuan-stack1.github.io
 baseurl                  : "" # the subpath of your site, e.g. "/blog"
 repository               : "chenzhiyuan-stack1/chenzhiyuan-stack1.github.io"
 teaser                   : "bidenbg.jpg"
@@ -78,12 +78,12 @@ analytics:
 
 # Site Author
 author:
-  name             : "Tianjie Dai"
+  name             : "Zhiyuan Chen"
   avatar           : "profile.jpg"
-  bio              : "Master @ SJTU EE, Intern @ Shanghai AI Lab"
+  bio              : "Master @ SJTU EE"
   location         : "Shanghai, China"
   employer         :
-  email            : "elfenreigen@sjtu.edu.cn"
+  email            : "chenzhiyuan@sjtu.edu.cn"
   researchgate     : 
   uri              :
   bitbucket        :
