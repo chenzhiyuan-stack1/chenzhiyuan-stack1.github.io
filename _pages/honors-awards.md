@@ -18,4 +18,4 @@ Honors
 Awards
 ======
 * _Second Prize_ of 2020 National Undergraduate Mathematical Contest in Modeling Competition
-* _First Prize_ of 2020 Shanghai Undergraduate Mathematical Contest in Modeling Competition
+* _First Prize_ of 2020 National Undergraduate Mathematical Contest in Modeling Competition Shanghai Division
