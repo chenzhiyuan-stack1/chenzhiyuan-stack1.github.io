@@ -9,7 +9,6 @@ author_profile: true
 
 Honors
 ======
-* **National Scholarship: _2022 Fall_**
 * SJTU Excellent Undergraduate: _2023 Spring_
 * Shao Ch’iu Alumni Scholarship: _2021 Fall_
 * Kwang-Hua Scholarship: _2020 Fall_
