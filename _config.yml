@@ -13,7 +13,7 @@ name                     : "Zhiyuan Chen"
 description              : "My name is Zhiyuan Chen"
 url                      : https://chenzhiyuan.github.io
 baseurl                  : "" # the subpath of your site, e.g. "/blog"
-repository               : "chenzhiyuan-stack1/chenzhiyuan.github.io"
+repository               : "chenzhiyuan-stack1/chenzhiyuan-stack1.github.io"
 teaser                   : "bidenbg.jpg"
 breadcrumbs              : false # true, false (default)
 words_per_minute         : 150
