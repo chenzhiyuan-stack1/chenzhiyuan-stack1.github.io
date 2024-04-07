@@ -10,7 +10,7 @@ locale                   : "en-US"
 title                    : "Zhiyuan Chen"
 title_separator          : "-"
 name                     : "Zhiyuan Chen"
-description              : "personal description"
+description              : "My name is Zhiyuan Chen"
 url                      : https://chenzhiyuan.github.io
 baseurl                  : "" # the subpath of your site, e.g. "/blog"
 repository               : "chenzhiyuan-stack1/chenzhiyuan.github.io"
