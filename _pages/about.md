@@ -11,9 +11,9 @@ I am _Zhiyuan_, a first-year master student supervised by [Prof. Chenglin Li](ht
 
 In my spare time, I love:
 
- ☑ Playing the piano, I'm a crazy fan of _F. F. Chopin_.🎹
+ ☑ Playing the _clarinet_🎷.
 
- ☑ Playing different ball sports, like _basketball_.🏓
+ ☑ Playing different ball sports, like _basketball_🏀, _soccer_⚽️, _badminton_🏸, _table tennis_🏓, and _billiards_🎱.
 
  ☑ Learning the frontiers of military and aerospace.🚀
 
